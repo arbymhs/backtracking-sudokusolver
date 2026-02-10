@@ -1,4 +1,4 @@
-# Sudoku Solver Comparison - Tugas Akhir
+# Sudoku Solver Comparison
 
 ## Description
 A Python application designed to solve Sudoku puzzles. It offers a comparative analysis between two distinct algorithms: the standard **Backtracking algorithm** and an optimized **Backtracking algorithm with the Minimum Remaining Values (MRV) heuristic**, which is a form of Branch and Bound. The application features a user-friendly Graphical User Interface (GUI) for interactive puzzle input, visualization of the solving process, and detailed performance statistics for each algorithm.
